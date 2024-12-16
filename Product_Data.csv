@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,Price,Perishable
+XFI-XFI-725,Lays Shampoo (2kg),Bath Essentials,290.08,0
+FLA-FLA-253,Nescafe Deodorant (500g),Personal Care,39.48,0
+TPH-TPH-591,Nescafe Banana (1L),Fruits,481.36,1
+AKY-AKY-833,Lipton Juice (250g),Beverages,408.84,0
+BRF-BRF-259,Nestle Deodorant (1kg),Personal Care,151.57,0
+NQK-NQK-349,Patanjali Corn (2kg),Grains,148.11,0
+JKT-JKT-110,Aashirvaad Mints (1kg),Confectionery,379.72,0
+PAQ-PAQ-332,Cadbury Orange (1L),Fruits,322.97,1
+HTS-HTS-248,Cadbury Toffee (500g),Confectionery,405.16,0
+QOI-QOI-213,Lipton Body Wash (500g),Bath Essentials,32.87,0
+WSI-WSI-307,Daawat Pudding (250g),Desserts,103.61,1
+LGJ-LGJ-806,Patanjali Milk (2kg),Dairy,261.98,1
+XWH-XWH-616,Patanjali Bagel (500g),Bakery,372.11,0
+LSX-LSX-595,Patanjali Mouthwash (250g),Personal Care,220.63,0
+LJF-LJF-933,Daawat Pork (500g),Meat,267.96,1
+OSB-OSB-325,Nestle Onion (1kg),Vegetables,31.25,1
+GTK-GTK-284,Dove Chicken (250g),Meat,273.83,1
+GPH-GPH-922,Aashirvaad Face Wash (250g),Personal Care,284.99,0
+DUZ-DUZ-202,Aashirvaad Razor (1L),Personal Care,82.23,0
+STE-STE-646,Dove Mouthwash (500g),Personal Care,247.63,0
+VTM-VTM-310,Nestle Body Wash (2kg),Bath Essentials,221.28,0
+QKP-QKP-465,Dove Bun (500g),Bakery,438.14,0
+ULD-ULD-435,Lipton Vitamin C (500g),Pharma,80.85,0
+EYU-EYU-474,Lipton Bread (250g),Bakery,280.79,0
+UOT-UOT-305,Lays Juice (500g),Beverages,147.38,0
+ETE-ETE-732,Parle Paneer (2kg),Dairy,52.39,1
+PDG-PDG-924,Patanjali Pork (250g),Meat,472.69,1
+PHD-PHD-654,Amul Nachos (2kg),Snacks,365.96,0
+DLX-DLX-841,Dettol Chicken (1kg),Meat,209.22,1
+AGW-AGW-124,Aashirvaad Carrot (250g),Vegetables,47.89,1
+AZV-AZV-450,Parle Juice (500g),Beverages,434.51,0
+OOU-OOU-549,Fresh 0odles (2kg),Packed Foods,326.44,0
+FDM-FDM-032,Amul Soup (1L),Packed Foods,490.58,0
+LAK-LAK-702,Dove Barley (250g),Grains,292.96,0
+FSZ-FSZ-043,Nestle Croissant (1L),Bakery,72.58,0
+JDS-JDS-636,Colgate Rice (500g),Grains,475.47,0
+NIS-NIS-404,Lays Body Wash (250g),Bath Essentials,139.76,0
+HWZ-HWZ-637,Nestle Conditioner (2kg),Bath Essentials,240.52,0
+DAD-DAD-229,Nescafe Pulses (500g),Grains,49.64,0
+VQR-VQR-598,Fresh Band-Aid (250g),Pharma,139.95,0
+NQX-NQX-286,Britannia Potato (500g),Vegetables,121.94,1
+NDV-NDV-591,Kwality Walls Soda (2kg),Beverages,187.68,0
+FWP-FWP-633,Nestle Body Wash (2kg),Bath Essentials,84.98,0
+THY-THY-112,Lipton Chicken (250g),Meat,35.97,1
+KCE-KCE-052,Lipton Corn (500g),Grains,29.69,0
+AIZ-AIZ-590,Aashirvaad Chocolate (250g),Confectionery,239.1,0
+GMO-GMO-013,Nestle Milk (1L),Dairy,381.3,1
+ZHY-ZHY-937,Amul Toffee (500g),Confectionery,412.6,0
+JXG-JXG-874,Nestle Chocolate (1kg),Confectionery,149.68,0
+JTP-JTP-996,Patanjali Paracetamol (2kg),Pharma,135.06,0
+NGA-NGA-716,Patanjali Mouthwash (2kg),Personal Care,227.98,0
+JSQ-JSQ-415,Kwality Walls Mutton (2kg),Meat,51.38,1
+QFJ-QFJ-249,Parle Carrot (2kg),Vegetables,124.6,1
+MGO-MGO-579,Nescafe Energy Drink (250g),Beverages,422.04,0
+IZI-IZI-671,Lipton Soup (250g),Packed Foods,367.26,0
+YOW-YOW-698,Dove Body Wash (500g),Bath Essentials,155.47,0
+OTI-OTI-200,Britannia 0odles (2kg),Packed Foods,71.14,0
+EAI-EAI-733,Patanjali Deodorant (250g),Personal Care,276.62,0
+LXJ-LXJ-593,Colgate Deodorant (250g),Personal Care,384.26,0
+FHN-FHN-988,Aashirvaad Tea (500g),Beverages,94.72,0
+NIL-NIL-092,Lipton Soup (250g),Packed Foods,68.68,0
+WER-WER-894,Cadbury Tea (1kg),Beverages,322.61,0
+LWU-LWU-209,Patanjali Paracetamol (2kg),Pharma,103.11,0
+APH-APH-810,Dove Antacid (1L),Pharma,412.1,0
+JUY-JUY-107,Patanjali Chicken (2kg),Meat,234.77,1
+CMC-CMC-135,Lipton Mints (2kg),Confectionery,473.16,0
+URF-URF-670,Dettol Mints (500g),Confectionery,247.45,0
+UPE-UPE-655,Kwality Walls 0odles (2kg),Packed Foods,326.7,0
+IJZ-IJZ-068,Patanjali Cereal (1L),Packed Foods,343.77,0
+PIC-PIC-753,Dove 0odles (1kg),Packed Foods,76.27,0
+PHD-PHD-590,Lays Lotion (1L),Bath Essentials,374.8,0
+VMG-VMG-269,Patanjali Nachos (250g),Snacks,469.99,0
+PSP-PSP-017,Aashirvaad Brownie (250g),Desserts,29.16,1
+WGP-WGP-671,Haldiram's Cucumber (500g),Vegetables,137.81,1
+WSN-WSN-462,Nestle Mints (2kg),Confectionery,174.01,0
+ELI-ELI-659,Lipton Toffee (1L),Confectionery,241.05,0
+KOB-KOB-085,Lays Croissant (2kg),Bakery,84.06,0
+BCV-BCV-924,Nestle Pudding (250g),Desserts,241.64,1
+TJW-TJW-263,Parle Cheese (2kg),Dairy,114.74,1
+TZH-TZH-624,Britannia Cereal (2kg),Packed Foods,57.54,0
+HSU-HSU-535,Amul Rice (500g),Grains,496.52,0
+QXZ-QXZ-027,Britannia Potato (500g),Vegetables,211.12,1
+NUS-NUS-351,Aashirvaad Antacid (250g),Pharma,460.17,0
+RSJ-RSJ-239,Haldiram's 0odles (2kg),Packed Foods,235.84,0
+SLB-SLB-191,Haldiram's Pasta (250g),Packed Foods,459.94,0
+FLJ-FLJ-763,Fresh Juice (1L),Beverages,332,0
+EUP-EUP-203,Fresh Razor (1kg),Personal Care,490.49,0
+LIN-LIN-173,Amul Apple (1kg),Fruits,263.14,1
+URM-URM-457,Nestle Corn (1kg),Grains,205.39,0
+FHK-FHK-814,Nestle Vitamin C (1L),Pharma,189.72,0
+DXF-DXF-217,Amul Paracetamol (2kg),Pharma,158.16,0
+JIW-JIW-302,Lipton Lotion (1L),Bath Essentials,355.55,0
+LFX-LFX-096,Kwality Walls Pudding (500g),Desserts,75.22,1
+XIZ-XIZ-281,Fresh Pork (500g),Meat,82.68,1
+MHW-MHW-296,Parle Onion (500g),Vegetables,143.5,1
+YSW-YSW-152,Cadbury Pudding (500g),Desserts,353.33,1
+KLE-KLE-280,Dove Nachos (1kg),Snacks,355.59,0
+HEF-HEF-349,Nestle Body Wash (250g),Bath Essentials,360.54,0
+XBK-XBK-379,Kwality Walls Face Wash (1kg),Personal Care,198.53,0
+IUX-IUX-683,Colgate Apple (1kg),Fruits,347.96,1
+PBX-PBX-725,Cadbury Toothpaste (1kg),Personal Care,57.82,0
+POS-POS-195,Fresh Pulses (500g),Grains,455.74,0
+THW-THW-235,Daawat Cereal (500g),Packed Foods,421.98,0
+MZU-MZU-361,Nescafe Brownie (1L),Desserts,229.41,1
+CIR-CIR-054,Amul Barley (1kg),Grains,328.77,0
+IDM-IDM-121,Nescafe Vitamin C (500g),Pharma,338.87,0
+EZE-EZE-547,Dettol Bun (500g),Bakery,356.93,0
+BGF-BGF-780,Parle Pulses (250g),Grains,159.87,0
+JKT-JKT-493,Lipton Mouthwash (2kg),Personal Care,345.43,0
+OIN-OIN-776,Britannia Energy Drink (1L),Beverages,459.67,0
+ZKA-ZKA-410,Nestle Soap (1L),Bath Essentials,303.9,0
+OLV-OLV-090,Fresh Cucumber (1L),Vegetables,327.93,1
+GHI-GHI-327,Colgate Bread (1kg),Bakery,146.65,0
+NHD-NHD-151,Lipton 0odles (2kg),Packed Foods,398.75,0
+EHG-EHG-259,Lays Gum (1kg),Confectionery,302.79,0
+XZP-XZP-330,Amul Energy Drink (250g),Beverages,119.84,0
+FWY-FWY-640,Kwality Walls Toffee (500g),Confectionery,294.25,0
+PZT-PZT-185,Amul Chocolate (2kg),Confectionery,358.01,0
+FBU-FBU-120,Cadbury Custard (250g),Desserts,252.96,1
+FPO-FPO-103,Daawat Deodorant (1kg),Personal Care,343.21,0
+KTO-KTO-960,Amul Brownie (250g),Desserts,108.85,1
+RIY-RIY-825,Lays Mango (500g),Fruits,194.15,1
+RBU-RBU-783,Fresh Biscuits (500g),Snacks,468.1,0
+UVR-UVR-356,Britannia Shampoo (1L),Bath Essentials,483.72,0
+BHY-BHY-116,Cadbury Gum (250g),Confectionery,394.5,0
+GDC-GDC-646,Lipton Chicken (2kg),Meat,455.5,1
+EEV-EEV-762,Cadbury Band-Aid (2kg),Pharma,370.51,0
+UOR-UOR-588,Parle Soda (2kg),Beverages,306.41,0
+ZWJ-ZWJ-571,Daawat Deodorant (500g),Personal Care,422.55,0
+GIO-GIO-299,Nestle Mouthwash (250g),Personal Care,138.75,0
+OJZ-OJZ-184,Colgate Grapes (1kg),Fruits,117.5,1
+ERI-ERI-698,Nescafe Cake Mix (1kg),Desserts,136.34,1
+QYJ-QYJ-703,Parle Coffee (1L),Beverages,204.98,0
+GML-GML-850,Lipton Tea (500g),Beverages,285.91,0
+YVN-YVN-457,Kwality Walls Shampoo (500g),Bath Essentials,486.22,0
+LOP-LOP-169,Nescafe Brownie (500g),Desserts,381.14,1
+SWD-SWD-740,Dettol Popcorn (500g),Snacks,181.12,0
+LHG-LHG-687,Amul Mango (500g),Fruits,90.76,1
+LVH-LVH-476,Dettol Gum (250g),Confectionery,424.23,0
+OWH-OWH-061,Haldiram's Namkeen (250g),Snacks,110.92,0
+FJM-FJM-480,Aashirvaad Wheat Flour (250g),Grains,118.03,0
+AIF-AIF-374,Fresh Toothpaste (1L),Personal Care,156.49,0
+HGT-HGT-092,Daawat Soda (500g),Beverages,24.65,0
+NMI-NMI-695,Britannia Deodorant (2kg),Personal Care,175.62,0
+WEL-WEL-070,Fresh Corn (2kg),Grains,398.51,0
+ROB-ROB-408,Nescafe Coffee (250g),Beverages,72.61,0
+GSE-GSE-316,Aashirvaad Cucumber (1L),Vegetables,264.42,1
+BTR-BTR-309,Patanjali Razor (2kg),Personal Care,270.19,0
+MPA-MPA-487,Amul Biscuits (2kg),Snacks,394.41,0
+LAY-LAY-395,Haldiram's Lotion (500g),Bath Essentials,398.07,0
+HKK-HKK-936,Parle Popcorn (2kg),Snacks,147.65,0
+DFB-DFB-441,Nescafe Chips (500g),Snacks,416.85,0
+TYR-TYR-229,Aashirvaad Potato (250g),Vegetables,242.28,1
+0H-0H-721,Parle Cereal (1kg),Packed Foods,71.89,0
+QCX-QCX-677,Lays Cereal (2kg),Packed Foods,369.94,0
+KIL-KIL-804,Daawat Croissant (2kg),Bakery,100.63,0
+NQI-NQI-339,Patanjali Deodorant (500g),Personal Care,220.09,0
+PBB-PBB-043,Kwality Walls Vitamin C (250g),Pharma,372.46,0
+UNA-UNA-898,Lays Chicken (250g),Meat,427.19,1
+ERV-ERV-808,Nescafe Pulses (500g),Grains,265.39,0
+QYM-QYM-242,Parle Juice (500g),Beverages,335.15,0
+CXI-CXI-363,Cadbury Cheese (1L),Dairy,465.94,1
+KKR-KKR-094,Nescafe Onion (1L),Vegetables,160.84,1
+QSC-QSC-441,Colgate Corn (250g),Grains,58.87,0
+EYK-EYK-646,Daawat Banana (250g),Fruits,143.63,1
+ADL-ADL-656,Kwality Walls Brownie (1kg),Desserts,458.59,1
+WNH-WNH-287,Nestle Soda (1L),Beverages,332.81,0
+NFG-NFG-166,Nestle Grapes (1kg),Fruits,318.77,1
+MYT-MYT-339,Kwality Walls Cereal (1kg),Packed Foods,33.06,0
+TUZ-TUZ-904,Cadbury Butter (2kg),Dairy,316.48,1
+IXY-IXY-512,Lays Corn (2kg),Grains,218.68,0
+SDW-SDW-545,Colgate Ice Cream (250g),Desserts,381.44,1
+DQE-DQE-611,Dettol Cake Mix (2kg),Desserts,120.84,1
+NTP-NTP-289,Nestle Pasta (250g),Packed Foods,275.7,0
+MID-MID-727,Haldiram's Juice (1L),Beverages,458.25,0
+TUE-TUE-535,Lays Cucumber (500g),Vegetables,220.21,1
+FHI-FHI-696,Britannia Beef (1kg),Meat,317.22,1
+JET-JET-447,Cadbury Corn (500g),Grains,465.06,0
+WPU-WPU-757,Daawat Beef (1L),Meat,396.36,1
+DMF-DMF-276,Dove Custard (1L),Desserts,62.76,1
+QTI-QTI-097,Lays Tea (1kg),Beverages,276.88,0
+NXL-NXL-688,Haldiram's Cake Mix (1kg),Desserts,443.39,1
+SDF-SDF-587,Parle Bun (250g),Bakery,388.57,0
+RLL-RLL-045,Lays Chicken (250g),Meat,92.71,1
+KRH-KRH-136,Amul Potato (2kg),Vegetables,423.62,1
+EKZ-EKZ-665,Aashirvaad Milk (1kg),Dairy,463.33,1
+KLN-KLN-109,Cadbury Deodorant (2kg),Personal Care,403.05,0
+MLF-MLF-737,Nescafe Tomato (1kg),Vegetables,117.04,1
+UXH-UXH-920,Britannia Nachos (250g),Snacks,449.88,0
+GBT-GBT-168,Patanjali Croissant (1L),Bakery,101.95,0
+SVP-SVP-946,Aashirvaad Razor (250g),Personal Care,181.94,0
+QAH-QAH-623,Nestle Ice Cream (250g),Desserts,41.14,1
+FRW-FRW-767,Parle Ice Cream (2kg),Desserts,55.99,1
+PER-PER-760,Patanjali Soap (500g),Bath Essentials,245.48,0
+WJQ-WJQ-654,Patanjali 0odles (500g),Packed Foods,140.94,0
+MIJ-MIJ-207,Parle Beef (250g),Meat,217.94,1
+BWL-BWL-583,Haldiram's Wheat Flour (1L),Grains,340.25,0
+XDE-XDE-273,Dettol Antacid (1kg),Pharma,114.1,0
+UEJ-UEJ-234,Haldiram's Chips (2kg),Snacks,399.24,0
+ZTW-ZTW-643,Parle Paracetamol (1kg),Pharma,103.98,0
+LHR-LHR-163,Nestle Toothpaste (2kg),Personal Care,141.77,0
+SUM-SUM-999,Parle Mutton (250g),Meat,68.38,1
+GTA-GTA-476,Nescafe Grapes (2kg),Fruits,248.45,1
+MJU-MJU-730,Aashirvaad Corn (1kg),Grains,213.45,0
+NBY-NBY-262,Patanjali Barley (250g),Grains,142.77,0
+DBY-DBY-989,Fresh Butter (1L),Dairy,264.93,1
+HRM-HRM-821,Patanjali Paracetamol (2kg),Pharma,300.47,0
+XOK-XOK-887,Daawat Deodorant (2kg),Personal Care,100.01,0
+ELB-ELB-563,Colgate Paneer (1L),Dairy,435.2,1
+WCT-WCT-327,Daawat Pain Relief Gel (1kg),Pharma,232.67,0
+SIR-SIR-744,Lays Antacid (500g),Pharma,362.26,0
+LAR-LAR-394,Parle Band-Aid (250g),Pharma,436.42,0
+OUJ-OUJ-081,Haldiram's Mango (2kg),Fruits,496.3,1
+BEY-BEY-569,Fresh Mints (2kg),Confectionery,393.75,0
+JLA-JLA-451,Parle Mints (250g),Confectionery,439.74,0
+PLS-PLS-957,Dove Band-Aid (2kg),Pharma,37.7,0
+OGA-OGA-576,Daawat Chips (250g),Snacks,292.1,0
+CIB-CIB-977,Patanjali Band-Aid (250g),Pharma,392.31,0
+IGE-IGE-163,Nescafe Milk (250g),Dairy,441.86,1
+HTV-HTV-979,Patanjali Banana (1kg),Fruits,360.1,1
+DXL-DXL-717,Nescafe Juice (500g),Beverages,286.39,0
+ZPF-ZPF-388,Fresh Soda (500g),Beverages,231.49,0
+DUP-DUP-074,Amul Soup (1kg),Packed Foods,338.26,0
+TNK-TNK-799,Haldiram's Banana (1kg),Fruits,452.74,1
+KFW-KFW-314,Nestle Butter (2kg),Dairy,324,1
+UDI-UDI-738,Patanjali Popcorn (250g),Snacks,82.49,0
+DAQ-DAQ-031,Britannia Pork (1L),Meat,452.38,1
+XHH-XHH-149,Britannia Candy (1kg),Confectionery,454.44,0
+JBW-JBW-896,Nescafe Energy Drink (500g),Beverages,479.24,0
+QAP-QAP-661,Kwality Walls Razor (1L),Personal Care,130.27,0
+LPE-LPE-930,Kwality Walls Pasta (2kg),Packed Foods,469.5,0
+YFC-YFC-905,Britannia Soup (1kg),Packed Foods,279.29,0
+HSV-HSV-376,Fresh Cake Mix (2kg),Desserts,25.93,1
+PWE-PWE-330,Nescafe Soap (1L),Bath Essentials,101.17,0
+NWA-NWA-377,Lays Croissant (250g),Bakery,340.94,0
+GHG-GHG-923,Nestle Mango (1L),Fruits,446.61,1
+CGJ-CGJ-146,Cadbury Custard (500g),Desserts,388.16,1
+YRR-YRR-103,Lays Banana (250g),Fruits,418.27,1
+CRH-CRH-511,Colgate Chicken (1kg),Meat,427.05,1
+WRF-WRF-000,Kwality Walls Soap (1L),Bath Essentials,46.64,0
+HZK-HZK-762,Dettol Orange (1L),Fruits,487.68,1
+XDT-XDT-844,Dove Pulses (1L),Grains,444.64,0
+SQV-SQV-464,Aashirvaad Rice (1L),Grains,477.93,0
+NBD-NBD-563,Lipton Custard (1L),Desserts,138.19,1
+CIU-CIU-373,Colgate Shampoo (2kg),Bath Essentials,461.72,0
+ZPZ-ZPZ-367,Dove Popcorn (1L),Snacks,418.8,0
+YAE-YAE-847,Dove Pudding (1L),Desserts,72.76,1
+R0-R0-788,Cadbury Cheese (2kg),Dairy,487.87,1
+ZZF-ZZF-917,Lays Chicken (500g),Meat,337.58,1
+UGP-UGP-104,Aashirvaad Popcorn (2kg),Snacks,292.1,0
+EBW-EBW-174,Britannia Chocolate (2kg),Confectionery,407.03,0
+XKH-XKH-618,Aashirvaad Paracetamol (1L),Pharma,425.53,0
+UBQ-UBQ-628,Cadbury Antacid (1L),Pharma,106.57,0
+GMA-GMA-196,Nescafe Bun (500g),Bakery,201.66,0
+WZA-WZA-159,Fresh Banana (250g),Fruits,301.34,1
+PMW-PMW-349,Lipton Gum (1kg),Confectionery,66.9,0
+SDW-SDW-716,Dettol Tea (250g),Beverages,269.22,0
+TIO-TIO-907,Kwality Walls Juice (500g),Beverages,401.87,0
+AEZ-AEZ-641,Haldiram's Corn (1L),Grains,181.21,0
+IHO-IHO-796,Dove Cake (2kg),Bakery,240.34,0
+NGD-NGD-591,Dove Gum (250g),Confectionery,196.49,0
+JPV-JPV-699,Lays Apple (1kg),Fruits,177.52,1
+QIG-QIG-482,Lays Juice (500g),Beverages,148.96,0
+KBI-KBI-177,Lipton Banana (2kg),Fruits,114.27,1
+OUV-OUV-358,Patanjali Cheese (500g),Dairy,327.07,1
+ASM-ASM-133,Nestle 0odles (1kg),Packed Foods,21.54,0
+TJZ-TJZ-927,Kwality Walls Nachos (1kg),Snacks,255.94,0
+COC-COC-755,Fresh Face Wash (1kg),Personal Care,269.46,0
+KZD-KZD-162,Patanjali Deodorant (1L),Personal Care,149.18,0
+ONJ-ONJ-653,Amul Cereal (500g),Packed Foods,74.38,0
+NFE-NFE-545,Cadbury Vitamin C (1kg),Pharma,405.56,0
+NWC-NWC-059,Colgate Beef (500g),Meat,441.56,1
+QFI-QFI-262,Fresh Fish (250g),Meat,191.37,1
+RJQ-RJQ-094,Nescafe Cereal (1L),Packed Foods,239.41,0
+XXL-XXL-544,Daawat Antacid (500g),Pharma,257,0
+WMX-WMX-406,Lays Coffee (1L),Beverages,227.9,0
+FLC-FLC-871,Britannia Antacid (500g),Pharma,44.38,0
+BRA-BRA-074,Aashirvaad Corn (1kg),Grains,86.11,0
+FMV-FMV-134,Colgate Onion (2kg),Vegetables,307.29,1
+PFQ-PFQ-012,Patanjali Deodorant (500g),Personal Care,382.2,0
+FQJ-FQJ-076,Dettol Rice (500g),Grains,385.07,0
+RPT-RPT-976,Fresh Mints (500g),Confectionery,295.91,0
+MNC-MNC-117,Nestle Mints (250g),Confectionery,356.5,0
+UOU-UOU-764,Haldiram's 0odles (1kg),Packed Foods,475.01,0
+RFK-RFK-504,Colgate Chocolate (2kg),Confectionery,340.38,0
+LAF-LAF-176,Amul Cheese (1L),Dairy,479.82,1
+LYZ-LYZ-459,Lipton Toffee (1L),Confectionery,99.29,0
+YFH-YFH-176,Daawat Lotion (1L),Bath Essentials,220.82,0
+WPC-WPC-048,Fresh Mints (2kg),Confectionery,189.91,0
+DSW-DSW-924,Haldiram's Deodorant (2kg),Personal Care,464.85,0
+JUC-JUC-082,Daawat Body Wash (1kg),Bath Essentials,26.5,0
+TSP-TSP-843,Nescafe Tea (500g),Beverages,100.1,0
+CJC-CJC-886,Aashirvaad Custard (1kg),Desserts,292.3,1
+P0-P0-385,Amul Chicken (2kg),Meat,348.03,1
+JTD-JTD-551,Dettol Toffee (250g),Confectionery,322.47,0
+MHA-MHA-824,Lays Sauce (250g),Packed Foods,420.7,0
+APC-APC-339,Colgate Popcorn (1kg),Snacks,255.67,0
+ADB-ADB-864,Daawat Barley (2kg),Grains,289.29,0
+QSL-QSL-117,Haldiram's Ice Cream (500g),Desserts,335.05,1
+KZZ-KZZ-424,Dove Wheat Flour (1kg),Grains,296.3,0
+LRF-LRF-776,Lays Nachos (250g),Snacks,389.25,0
+VFI-VFI-061,Parle Namkeen (500g),Snacks,179.33,0
+TFP-TFP-970,Amul Mango (2kg),Fruits,437.78,1
+EHT-EHT-466,Dettol Chicken (1kg),Meat,388.15,1
+ALE-ALE-752,Lipton Cake (250g),Bakery,126.17,0
+RPR-RPR-933,Britannia Tomato (500g),Vegetables,129.78,1
+BSP-BSP-347,Haldiram's Toffee (500g),Confectionery,350.54,0
+NBK-NBK-406,Patanjali Cheese (1L),Dairy,136.7,1
+ZPF-ZPF-740,Parle Pasta (2kg),Packed Foods,144.25,0
+JVG-JVG-159,Kwality Walls Corn (2kg),Grains,123.82,0
+VFI-VFI-862,Colgate Bun (500g),Bakery,154.78,0
+SFN-SFN-266,Nestle Butter (1L),Dairy,355.19,1
+EPB-EPB-690,Nestle Popcorn (1kg),Snacks,165.37,0
+SGT-SGT-670,Daawat Nachos (2kg),Snacks,89.5,0
+KWW-KWW-732,Aashirvaad Razor (1L),Personal Care,225.4,0
+IID-IID-053,Aashirvaad Chocolate (250g),Confectionery,27.32,0
+NYL-NYL-013,Daawat Orange (250g),Fruits,58.95,1
+BCY-BCY-207,Aashirvaad Barley (1kg),Grains,187.37,0
+ONM-ONM-292,Dove Bread (1L),Bakery,398.13,0
+XLJ-XLJ-541,Dove Body Wash (500g),Bath Essentials,87.59,0
+QHH-QHH-397,Daawat Soap (2kg),Bath Essentials,74.89,0
+CVW-CVW-977,Nescafe Soap (500g),Bath Essentials,90.18,0
+KCD-KCD-579,Britannia Shampoo (1kg),Bath Essentials,307.14,0
+OAF-OAF-729,Dettol Nachos (1L),Snacks,401.66,0
+OZV-OZV-198,Parle Bread (500g),Bakery,412.12,0
+QUE-QUE-565,Lays Paneer (2kg),Dairy,449.59,1
+NQJ-NQJ-359,Nescafe Vitamin C (1L),Pharma,431.03,0
+QHE-QHE-544,Dettol Pain Relief Gel (1L),Pharma,295.8,0
+JUU-JUU-276,Colgate Banana (2kg),Fruits,208,1
+OSV-OSV-690,Lays Tomato (500g),Vegetables,145.24,1
+PNG-PNG-463,Patanjali Soap (2kg),Bath Essentials,35.02,0
+KYU-KYU-527,Lipton Mango (1L),Fruits,423.9,1
+RAC-RAC-642,Fresh Banana (500g),Fruits,181.2,1
+SCG-SCG-024,Dove Tomato (2kg),Vegetables,409.65,1
+NFK-NFK-796,Nescafe Milk (250g),Dairy,286.6,1
+SRO-SRO-714,Fresh Chicken (1L),Meat,328.34,1
+PUY-PUY-453,Fresh Mango (250g),Fruits,353.52,1
+VBA-VBA-987,Lipton Cheese (250g),Dairy,93.59,1
+UNB-UNB-897,Cadbury Chips (500g),Snacks,115.09,0
+RNF-RNF-709,Lays Mouthwash (1L),Personal Care,289.94,0
+WNK-WNK-316,Nescafe Corn (2kg),Grains,457.49,0
+VYD-VYD-077,Parle Banana (2kg),Fruits,387.36,1
+KNB-KNB-138,Cadbury Tomato (1L),Vegetables,319.36,1
+NMZ-NMZ-786,Dove Potato (1kg),Vegetables,26.9,1
+DDN-DDN-676,Patanjali Onion (1kg),Vegetables,237.31,1
+INQ-INQ-993,Haldiram's Barley (500g),Grains,121.47,0
+PSA-PSA-538,Dove Pain Relief Gel (500g),Pharma,337.09,0
+XXW-XXW-427,Dettol Mutton (2kg),Meat,395.35,1
+BBP-BBP-228,Cadbury Toffee (1kg),Confectionery,209.5,0
+MRT-MRT-025,Lipton Namkeen (1L),Snacks,423.28,0
+DJD-DJD-308,Cadbury Lotion (500g),Bath Essentials,80.44,0
+KCY-KCY-546,Patanjali Ice Cream (1kg),Desserts,271.11,1
+ONB-ONB-243,Dettol Mouthwash (1L),Personal Care,217.99,0
+WYJ-WYJ-268,Lipton Sauce (250g),Packed Foods,406.28,0
+VXK-VXK-261,Amul Croissant (500g),Bakery,338.49,0
+LNP-LNP-334,Aashirvaad Band-Aid (250g),Pharma,132.34,0
+PWD-PWD-368,Lipton Paracetamol (250g),Pharma,24.38,0
+ONQ-ONQ-395,Kwality Walls Band-Aid (1kg),Pharma,288.16,0
+PHO-PHO-826,Daawat Lotion (1L),Bath Essentials,400.33,0
+XSW-XSW-324,Patanjali Cake Mix (500g),Desserts,42.07,1
+0B-0B-795,Lays Butter (1L),Dairy,151.93,1
+OQH-OQH-807,Cadbury Bread (1kg),Bakery,372.5,0
+BUJ-BUJ-123,Patanjali Rice (1kg),Grains,478.15,0
+NHM-NHM-692,Cadbury Deodorant (1L),Personal Care,473.55,0
+QZE-QZE-685,Kwality Walls Banana (1L),Fruits,272.52,1
+TGM-TGM-824,Dettol Mints (2kg),Confectionery,329.36,0
+NQK-NQK-330,Dettol Cake (250g),Bakery,196.64,0
+MTT-MTT-203,Parle Corn (500g),Grains,346.54,0
+HMO-HMO-925,Patanjali Pain Relief Gel (1L),Pharma,358.65,0
+VFW-VFW-528,Amul Pain Relief Gel (1kg),Pharma,424.9,0
+CVF-CVF-939,Haldiram's Soda (500g),Beverages,172.34,0
+FDK-FDK-605,Britannia Soda (500g),Beverages,346.24,0
+WJS-WJS-032,Britannia Wheat Flour (1L),Grains,77.56,0
+SIP-SIP-018,Haldiram's Band-Aid (250g),Pharma,256.19,0
+CMK-CMK-560,Colgate Energy Drink (1L),Beverages,403.72,0
+KZR-KZR-488,Nestle Orange (1kg),Fruits,362.36,1
+HFU-HFU-233,Dettol Chicken (500g),Meat,257.3,1
+ECO-ECO-068,Lays Paracetamol (1kg),Pharma,412.4,0
+YVA-YVA-940,Colgate Banana (1L),Fruits,211.07,1
+EVK-EVK-993,Parle Pudding (1L),Desserts,23.6,1
+SLV-SLV-693,Fresh Paracetamol (1kg),Pharma,130.92,0
+SOW-SOW-039,Lipton Pasta (250g),Packed Foods,265.5,0
+YSU-YSU-692,Lipton Barley (2kg),Grains,256.45,0
+LZK-LZK-245,Amul Gum (2kg),Confectionery,189.94,0
+SMA-SMA-543,Aashirvaad Croissant (2kg),Bakery,51.78,0
+AIN-AIN-865,Kwality Walls Coffee (500g),Beverages,381.69,0
+QPN-QPN-742,Cadbury Popcorn (2kg),Snacks,495.3,0
+LJJ-LJJ-647,Britannia Gum (250g),Confectionery,410.42,0
+IOO-IOO-656,Amul Chips (2kg),Snacks,375.72,0
+LWZ-LWZ-688,Patanjali Gum (500g),Confectionery,220.74,0
+IJC-IJC-597,Patanjali Chocolate (250g),Confectionery,157.7,0
+WNR-WNR-597,Nescafe Soda (1L),Beverages,246.08,0
+OYH-OYH-201,Haldiram's Soda (250g),Beverages,496.39,0
+YZF-YZF-757,Dove Wheat Flour (250g),Grains,490.96,0
+EIK-EIK-388,Amul Juice (1L),Beverages,421.59,0
+HEU-HEU-868,Nescafe Shampoo (1kg),Bath Essentials,367.37,0
+YJL-YJL-906,Lipton Pain Relief Gel (250g),Pharma,493.1,0
+CNK-CNK-824,Nescafe Brownie (2kg),Desserts,406.93,1
+JON-JON-010,Britannia Potato (250g),Vegetables,229.75,1
+WXK-WXK-261,Nescafe Candy (1L),Confectionery,427.74,0
+DHS-DHS-082,Lipton Cereal (2kg),Packed Foods,273.96,0
+YTT-YTT-083,Lays Pork (1L),Meat,409.75,1
+XXG-XXG-023,Dettol Banana (2kg),Fruits,346.35,1
+TBV-TBV-953,Dove Butter (500g),Dairy,343.13,1
+XMP-XMP-942,Fresh Potato (1L),Vegetables,134.92,1
+AKF-AKF-094,Daawat Pasta (2kg),Packed Foods,424.47,0
+SQG-SQG-862,Amul 0odles (1L),Packed Foods,357.68,0
+VWN-VWN-942,Dettol Potato (1kg),Vegetables,86.58,1
+DHD-DHD-848,Dettol Mango (250g),Fruits,107.43,1
+KUC-KUC-774,Parle Onion (250g),Vegetables,498.39,1
+QOP-QOP-833,Amul Carrot (250g),Vegetables,188.75,1
+WIU-WIU-358,Cadbury Biscuits (1kg),Snacks,363.42,0
+CJT-CJT-223,Daawat Rice (1kg),Grains,90.65,0
+SVX-SVX-577,Kwality Walls Butter (250g),Dairy,462,1
+YVJ-YVJ-789,Dove Pulses (2kg),Grains,234.17,0
+QHT-QHT-439,Fresh Lotion (1L),Bath Essentials,47.85,0
+ATD-ATD-358,Fresh Conditioner (2kg),Bath Essentials,474.61,0
+SXT-SXT-902,Cadbury Bread (250g),Bakery,247,0
+MNF-MNF-351,Dove Razor (500g),Personal Care,391.7,0
+YPH-YPH-902,Kwality Walls Apple (1L),Fruits,496.15,1
+GUV-GUV-696,Daawat Band-Aid (500g),Pharma,240.16,0
+RPS-RPS-107,Dove Brownie (1kg),Desserts,239.93,1
+MOC-MOC-787,Kwality Walls Soda (2kg),Beverages,358.98,0
+SDT-SDT-216,Nescafe Bread (500g),Bakery,181.28,0
+TIK-TIK-151,Lipton Chocolate (1L),Confectionery,444.15,0
+RUA-RUA-378,Lays Wheat Flour (1L),Grains,301.95,0
+DXQ-DXQ-514,Aashirvaad Potato (1L),Vegetables,69.89,1
+WUK-WUK-898,Kwality Walls Antacid (250g),Pharma,236.64,0
+PDD-PDD-954,Britannia Sauce (500g),Packed Foods,482.16,0
+IET-IET-642,Cadbury Cucumber (250g),Vegetables,253.2,1
+IHI-IHI-693,Nestle Shampoo (500g),Bath Essentials,169.59,0
+DPF-DPF-717,Haldiram's Orange (500g),Fruits,166.3,1
+BRR-BRR-325,Parle Tomato (1L),Vegetables,297.75,1
+ZVF-ZVF-945,Cadbury Paracetamol (1L),Pharma,292.84,0
+OKU-OKU-931,Dove Lotion (2kg),Bath Essentials,246.67,0
+SBA-SBA-770,Fresh Gum (1kg),Confectionery,306.58,0
+RWG-RWG-470,Dove Soup (250g),Packed Foods,301.1,0
+OJB-OJB-948,Dettol Bun (2kg),Bakery,119.95,0
+WPD-WPD-426,Kwality Walls Fish (2kg),Meat,451.24,1
+UTS-UTS-093,Patanjali Juice (500g),Beverages,176.97,0
+PLR-PLR-069,Patanjali Soup (2kg),Packed Foods,384.36,0
+IWT-IWT-631,Kwality Walls Fish (500g),Meat,156.15,1
+SVE-SVE-286,Dettol Pasta (500g),Packed Foods,440.23,0
+WTN-WTN-236,Lays Apple (1L),Fruits,26.63,1
+ROI-ROI-817,Amul Cereal (2kg),Packed Foods,496.02,0
+YJI-YJI-243,Lipton Shampoo (1L),Bath Essentials,149.75,0
+MZD-MZD-343,Colgate Pork (1L),Meat,478.58,1
+SBN-SBN-645,Fresh Nachos (1L),Snacks,37.27,0
+CHM-CHM-259,Aashirvaad Bun (1kg),Bakery,265.71,0
+NGI-NGI-715,Nescafe 0odles (250g),Packed Foods,82.56,0
+UHA-UHA-672,Dettol Grapes (250g),Fruits,296.37,1
+MCV-MCV-769,Dettol Face Wash (2kg),Personal Care,174.79,0
+RWO-RWO-917,Lipton Lotion (1kg),Bath Essentials,221.93,0
+BLD-BLD-905,Nescafe Onion (250g),Vegetables,190.97,1
+HOZ-HOZ-684,Patanjali Face Wash (2kg),Personal Care,165.41,0
+TPM-TPM-758,Nestle Pain Relief Gel (500g),Pharma,123.39,0
+HLX-HLX-609,Nescafe Paracetamol (1L),Pharma,254.18,0
+OWE-OWE-383,Haldiram's Fish (250g),Meat,400.7,1
+QLN-QLN-712,Lipton Namkeen (500g),Snacks,240.77,0
+HHV-HHV-416,Haldiram's Namkeen (1L),Snacks,457.09,0
+LSI-LSI-752,Dove Biscuits (2kg),Snacks,145.33,0
+UYB-UYB-369,Lays Carrot (500g),Vegetables,94.53,1
+BZA-BZA-386,Colgate Nachos (1L),Snacks,415.53,0
+NMA-NMA-727,Nescafe Potato (1kg),Vegetables,306.76,1
+KVC-KVC-215,Kwality Walls Soap (250g),Bath Essentials,272.68,0
+WXV-WXV-625,Dove Gum (250g),Confectionery,440.22,0
+QDS-QDS-877,Haldiram's Cereal (1kg),Packed Foods,310.94,0
+MHH-MHH-201,Dettol Cake (2kg),Bakery,224.74,0
+YOR-YOR-299,Aashirvaad Bagel (500g),Bakery,277.18,0
+WBQ-WBQ-840,Lipton Cake (500g),Bakery,310.46,0
+VOG-VOG-715,Parle Conditioner (2kg),Bath Essentials,224.24,0
+ESP-ESP-851,Cadbury Rice (2kg),Grains,237.68,0
+EJR-EJR-527,Daawat Carrot (1L),Vegetables,71.33,1
+DIJ-DIJ-540,Fresh Soda (2kg),Beverages,473.21,0
+DCU-DCU-834,Daawat Bun (250g),Bakery,229.48,0
+DOH-DOH-556,Patanjali Milk (500g),Dairy,55.41,1
+AXT-AXT-010,Parle Lotion (2kg),Bath Essentials,331.59,0
+PCQ-PCQ-411,Kwality Walls Energy Drink (1L),Beverages,437.82,0
+MVZ-MVZ-161,Lays Lotion (1kg),Bath Essentials,492.88,0
+YDS-YDS-510,Dove Ice Cream (250g),Desserts,327.64,1
+QBS-QBS-703,Cadbury Apple (2kg),Fruits,283.29,1
+WUM-WUM-722,Nescafe Soda (500g),Beverages,306.02,0
+HYG-HYG-507,Kwality Walls Yogurt (1L),Dairy,459.3,1
+WVJ-WVJ-880,Kwality Walls Band-Aid (1kg),Pharma,54.68,0
+GHG-GHG-187,Lays Yogurt (500g),Dairy,431.91,1
+BLA-BLA-376,Britannia Antacid (1kg),Pharma,153.56,0
+VIP-VIP-196,Haldiram's Pudding (2kg),Desserts,100.92,1
+FKH-FKH-599,Colgate Mouthwash (1L),Personal Care,71.05,0
+SBI-SBI-701,Dove Deodorant (250g),Personal Care,414.64,0
+GNE-GNE-063,Haldiram's Croissant (1L),Bakery,469.8,0
+XGY-XGY-894,Nestle Mutton (2kg),Meat,41.5,1
+HRZ-HRZ-220,Aashirvaad Energy Drink (500g),Beverages,337.84,0
+COT-COT-795,Fresh Bun (2kg),Bakery,404.99,0
+RMB-RMB-471,Amul Conditioner (1kg),Bath Essentials,360.19,0
+XPA-XPA-484,Cadbury Cereal (1L),Packed Foods,319.52,0
+KXI-KXI-272,Nestle Custard (2kg),Desserts,200.36,1
+KEU-KEU-379,Kwality Walls Nachos (1kg),Snacks,249.44,0
+NPF-NPF-904,Haldiram's Custard (1kg),Desserts,38.68,1
+ILG-ILG-422,Lipton Beef (500g),Meat,411.9,1
+HHL-HHL-923,Aashirvaad Pulses (250g),Grains,479.39,0
+VJE-VJE-162,Britannia Gum (500g),Confectionery,405.73,0
+AVQ-AVQ-913,Patanjali Orange (2kg),Fruits,479.47,1
+QRX-QRX-354,Dove Chocolate (250g),Confectionery,39.45,0
+TWV-TWV-041,Fresh Paracetamol (250g),Pharma,460.85,0
+RHL-RHL-306,Dove Mouthwash (500g),Personal Care,383.99,0
+NCS-NCS-088,Aashirvaad Brownie (1kg),Desserts,160.62,1
+LQS-LQS-507,Lays Energy Drink (250g),Beverages,78.79,0
+RGH-RGH-597,Cadbury Deodorant (500g),Personal Care,394.53,0
+TYG-TYG-662,Dove Bread (1L),Bakery,330,0
+IEC-IEC-217,Aashirvaad Pulses (500g),Grains,208.66,0
+PBO-PBO-595,Dettol Soap (1L),Bath Essentials,195.89,0
+KKK-KKK-857,Parle 0odles (1L),Packed Foods,218.29,0
+YVJ-YVJ-400,Dove Chips (1L),Snacks,57.18,0
+PWN-PWN-202,Daawat Coffee (1kg),Beverages,376.04,0
+OQJ-OQJ-858,Lipton Cheese (2kg),Dairy,116.1,1
+JMM-JMM-814,Dove Toffee (1kg),Confectionery,76.83,0
+WGX-WGX-787,Colgate Ice Cream (1kg),Desserts,56.13,1
+CSB-CSB-738,Haldiram's Band-Aid (1kg),Pharma,173.66,0
+DZK-DZK-922,Lipton Soup (1kg),Packed Foods,210.64,0
+BGZ-BGZ-949,Britannia Potato (500g),Vegetables,231.44,1
+CBP-CBP-596,Amul Biscuits (500g),Snacks,488.47,0
+QBB-QBB-108,Kwality Walls Barley (500g),Grains,489.37,0
+IMC-IMC-657,Nescafe Cake Mix (2kg),Desserts,301.51,1
+RGN-RGN-942,Parle Coffee (500g),Beverages,399.32,0
+FPN-FPN-481,Dettol Candy (1kg),Confectionery,144.82,0
+RWC-RWC-260,Cadbury Brownie (1L),Desserts,223.93,1
+EYS-EYS-195,Dettol Nachos (1L),Snacks,452.89,0
+GFX-GFX-933,Dettol Barley (250g),Grains,335.88,0
+NXG-NXG-078,Haldiram's Potato (1kg),Vegetables,297.29,1
+FHH-FHH-396,Parle Gum (250g),Confectionery,208.48,0
+KML-KML-065,Britannia Potato (1L),Vegetables,219.68,1
+QZC-QZC-492,Patanjali Conditioner (250g),Bath Essentials,114.83,0
+KYM-KYM-687,Cadbury Cheese (1L),Dairy,183.85,1
+WJQ-WJQ-280,Fresh Candy (1kg),Confectionery,299.19,0
+EOW-EOW-746,Kwality Walls Wheat Flour (250g),Grains,399.67,0
+VBA-VBA-065,Fresh Popcorn (500g),Snacks,22.52,0
+SML-SML-372,Haldiram's Tea (1kg),Beverages,403.55,0
+TVJ-TVJ-491,Aashirvaad Corn (1kg),Grains,483.71,0
+JBV-JBV-875,Daawat Fish (2kg),Meat,214.14,1
+HXE-HXE-662,Aashirvaad Cereal (2kg),Packed Foods,160.14,0
+YQY-YQY-972,Cadbury Pudding (500g),Desserts,282.28,1
+FOB-FOB-762,Parle Cheese (2kg),Dairy,172.72,1
+NCA-NCA-861,Nescafe Yogurt (250g),Dairy,479.83,1
+KKW-KKW-860,Lays Chips (500g),Snacks,60.64,0
+OSD-OSD-579,Haldiram's Conditioner (1kg),Bath Essentials,499.76,0
+QJX-QJX-375,Cadbury Toffee (250g),Confectionery,203.3,0
+XYR-XYR-861,Lipton Beef (1kg),Meat,186.73,1
+CCM-CCM-147,Britannia Soda (2kg),Beverages,361.37,0
+GAZ-GAZ-553,Fresh Juice (1L),Beverages,36.16,0
+UIA-UIA-080,Patanjali Mouthwash (1kg),Personal Care,85.73,0
+HNZ-HNZ-044,Nescafe Deodorant (1kg),Personal Care,447.91,0
+HDN-HDN-209,Amul Namkeen (1kg),Snacks,184.99,0
+LVB-LVB-940,Lipton Pork (2kg),Meat,269.12,1
+GLC-GLC-648,Colgate Energy Drink (500g),Beverages,122.96,0
+YMQ-YMQ-025,Haldiram's Cake Mix (1kg),Desserts,212.32,1
+RJL-RJL-859,Fresh Shampoo (1L),Bath Essentials,419.61,0
+VMG-VMG-154,Patanjali Potato (250g),Vegetables,480.83,1
+IGJ-IGJ-106,Nestle Cake Mix (2kg),Desserts,211.42,1
+LST-LST-952,Parle Tea (250g),Beverages,138.33,0
+ORA-ORA-151,Daawat Potato (250g),Vegetables,160.79,1
+CUU-CUU-075,Daawat Barley (1kg),Grains,348.62,0
+MQD-MQD-839,Fresh Bagel (1L),Bakery,274.7,0
+REF-REF-215,Amul Nachos (250g),Snacks,38.35,0
+OWP-OWP-835,Colgate Corn (500g),Grains,334.48,0
+VFT-VFT-790,Dettol Lotion (2kg),Bath Essentials,145.97,0
+AYQ-AYQ-468,Patanjali Juice (1L),Beverages,47.86,0
+AFM-AFM-024,Patanjali Body Wash (500g),Bath Essentials,173.78,0
+ONQ-ONQ-040,Kwality Walls Pasta (1kg),Packed Foods,106.43,0
+ZYF-ZYF-116,Nestle Pudding (1L),Desserts,83.39,1
+JDD-JDD-268,Colgate Energy Drink (1kg),Beverages,70.43,0
+MDJ-MDJ-769,Lays Brownie (500g),Desserts,377.67,1
+CSN-CSN-791,Parle Tea (250g),Beverages,242.54,0
+LMG-LMG-185,Britannia Yogurt (2kg),Dairy,40.82,1
+BNC-BNC-945,Cadbury Pasta (1kg),Packed Foods,445.15,0
+EIG-EIG-372,Patanjali Energy Drink (500g),Beverages,339.1,0
+QJD-QJD-961,Dettol Bread (500g),Bakery,499.41,0
+TTX-TTX-955,Patanjali Paracetamol (500g),Pharma,270.34,0
+UQF-UQF-177,Lays Pulses (1L),Grains,150.51,0
+JWM-JWM-024,Nestle Candy (1L),Confectionery,104.59,0
+PJR-PJR-482,Lays Soup (1kg),Packed Foods,113.89,0
+SSE-SSE-212,Fresh Antacid (2kg),Pharma,374.39,0
+RTX-RTX-599,Haldiram's Croissant (1L),Bakery,378.93,0
+DMI-DMI-622,Cadbury Conditioner (1kg),Bath Essentials,74.49,0
+RUY-RUY-993,Lays Soap (1kg),Bath Essentials,356.48,0
+UZC-UZC-270,Britannia Pudding (1kg),Desserts,279.51,1
+UIF-UIF-485,Amul Cake (2kg),Bakery,355.17,0
+QGG-QGG-073,Nescafe Cereal (2kg),Packed Foods,451,0
+DXJ-DXJ-835,Kwality Walls Mouthwash (2kg),Personal Care,140.99,0
+YFK-YFK-253,Nescafe Barley (1kg),Grains,334.93,0
+CUB-CUB-436,Fresh Band-Aid (1L),Pharma,61.12,0
+CKI-CKI-401,Haldiram's Bagel (2kg),Bakery,337.5,0
+UAY-UAY-110,Kwality Walls Bagel (1L),Bakery,295.7,0
+PXX-PXX-158,Dove Wheat Flour (1L),Grains,475.7,0
+CHH-CHH-561,Nestle Potato (2kg),Vegetables,379.35,1
+BYD-BYD-866,Patanjali Cheese (1kg),Dairy,38.44,1
+PWZ-PWZ-423,Britannia Face Wash (2kg),Personal Care,415.16,0
+SUA-SUA-364,Britannia Nachos (1L),Snacks,454.59,0
+DXU-DXU-947,Dettol Pasta (2kg),Packed Foods,192.48,0
+ESA-ESA-074,Colgate Custard (2kg),Desserts,322.95,1
+FZO-FZO-493,Nescafe Cheese (1kg),Dairy,475.57,1
+XEZ-XEZ-875,Colgate Beef (1kg),Meat,299.36,1
+RHW-RHW-875,Aashirvaad Namkeen (500g),Snacks,319.34,0
+BCX-BCX-056,Amul Cereal (1kg),Packed Foods,481.39,0
+MGE-MGE-293,Parle Butter (1kg),Dairy,207.74,1
+THO-THO-955,Daawat Wheat Flour (2kg),Grains,419.64,0
+GAU-GAU-270,Kwality Walls Mouthwash (2kg),Personal Care,408.04,0
+FBP-FBP-004,Colgate Tea (1L),Beverages,473.87,0
+QLH-QLH-361,Patanjali Barley (500g),Grains,111.78,0
+YKK-YKK-016,Dettol Pasta (2kg),Packed Foods,298.47,0
+CCT-CCT-987,Nescafe Soda (250g),Beverages,300.36,0
+PGQ-PGQ-610,Nescafe Toothpaste (1kg),Personal Care,363.45,0
+TGZ-TGZ-446,Lays Soda (250g),Beverages,214.8,0
+HTN-HTN-240,Lays Butter (500g),Dairy,364.44,1
+CEH-CEH-266,Lipton Paneer (2kg),Dairy,300.26,1
+GWA-GWA-662,Nestle Biscuits (2kg),Snacks,79.31,0
+GHW-GHW-523,Cadbury Pulses (250g),Grains,261.72,0
+UBS-UBS-397,Parle Nachos (500g),Snacks,471.2,0
+QAE-QAE-753,Fresh Namkeen (1L),Snacks,280.93,0
+KRB-KRB-908,Lipton Corn (500g),Grains,182.78,0
+XQU-XQU-738,Aashirvaad Corn (1kg),Grains,186.93,0
+DJF-DJF-235,Britannia Face Wash (1kg),Personal Care,274.81,0
+JLB-JLB-727,Nescafe Lotion (2kg),Bath Essentials,102.59,0
+CUC-CUC-773,Amul Paracetamol (1L),Pharma,116.22,0
+IZQ-IZQ-720,Haldiram's Toothpaste (500g),Personal Care,288.05,0
+LIW-LIW-029,Britannia Gum (1kg),Confectionery,164.52,0
+MIG-MIG-493,Haldiram's Gum (2kg),Confectionery,93.19,0
+LFW-LFW-720,Patanjali Potato (1L),Vegetables,325.07,1
+BAO-BAO-990,Dove Chocolate (500g),Confectionery,246.57,0
+VUP-VUP-142,Lipton Paneer (1kg),Dairy,479.05,1
+BYX-BYX-499,Fresh Gum (250g),Confectionery,130.86,0
+YZM-YZM-568,Parle Chips (1L),Snacks,153.7,0
+ZCX-ZCX-817,Nestle Bagel (2kg),Bakery,287.98,0
+KFZ-KFZ-066,Kwality Walls Banana (1kg),Fruits,444.13,1
+ZBO-ZBO-100,Fresh Cake (250g),Bakery,389.59,0
+AXE-AXE-271,Nestle Juice (1kg),Beverages,98.39,0
+OZP-OZP-409,Amul Sauce (1L),Packed Foods,23.53,0
+ZBD-ZBD-199,Fresh Apple (500g),Fruits,119.43,1
+RAF-RAF-938,Dettol Grapes (1L),Fruits,243.28,1
+JXH-JXH-282,Lipton Paracetamol (2kg),Pharma,102.52,0
+VYM-VYM-440,Fresh Chocolate (250g),Confectionery,200.93,0
+EXZ-EXZ-055,Kwality Walls Chicken (1kg),Meat,165.23,1
+UQP-UQP-785,Aashirvaad Chicken (250g),Meat,239.78,1
+MIW-MIW-776,Parle Toothpaste (250g),Personal Care,119.63,0
+QAS-QAS-503,Lipton Yogurt (1L),Dairy,72.75,1
+OQH-OQH-390,Dettol Croissant (2kg),Bakery,364.49,0
+XCK-XCK-265,Colgate Soap (1L),Bath Essentials,31.54,0
+YJE-YJE-789,Daawat Paneer (1kg),Dairy,447.59,1
+CKE-CKE-997,Kwality Walls Shampoo (1kg),Bath Essentials,308.56,0
+JXT-JXT-414,Kwality Walls Banana (500g),Fruits,460.4,1
+UBC-UBC-619,Aashirvaad Razor (500g),Personal Care,451.14,0
+EHB-EHB-342,Colgate Bagel (2kg),Bakery,284.48,0
+AHO-AHO-667,Dettol Chocolate (1L),Confectionery,371.81,0
+VHB-VHB-351,Lipton Mutton (2kg),Meat,383.82,1
+OSK-OSK-771,Amul Cake Mix (2kg),Desserts,447.93,1
+UFA-UFA-599,Fresh Mango (250g),Fruits,353.89,1
+KBM-KBM-986,Fresh Carrot (1L),Vegetables,69.15,1
+HLF-HLF-214,Patanjali Mints (1L),Confectionery,125.6,0
+XJN-XJN-661,Parle 0odles (250g),Packed Foods,321.95,0
+CDI-CDI-511,Dettol Chips (2kg),Snacks,188.63,0
+VKJ-VKJ-041,Fresh Lotion (2kg),Bath Essentials,227.14,0
+HLR-HLR-456,Amul Banana (500g),Fruits,241.07,1
+BMB-BMB-693,Haldiram's Butter (500g),Dairy,254.24,1
+ZDC-ZDC-798,Patanjali Rice (2kg),Grains,395.16,0
+GND-GND-861,Lays Popcorn (500g),Snacks,307.44,0
+QVN-QVN-957,Haldiram's Candy (250g),Confectionery,465.29,0
+YQI-YQI-102,Daawat Deodorant (250g),Personal Care,278.36,0
+CDC-CDC-904,Colgate Gum (1kg),Confectionery,495.95,0
+QBX-QBX-808,Dove Bagel (1L),Bakery,375.96,0
+IXF-IXF-886,Lays Yogurt (1kg),Dairy,302.89,1
+QRY-QRY-426,Dettol Apple (250g),Fruits,270.08,1
+XDN-XDN-890,Aashirvaad Band-Aid (500g),Pharma,259.34,0
+IVG-IVG-428,Nescafe Bread (1kg),Bakery,359.89,0
+VUY-VUY-339,Cadbury Coffee (2kg),Beverages,435.9,0
+NGD-NGD-675,Britannia Wheat Flour (1L),Grains,351.33,0
+HQF-HQF-699,Daawat Fish (250g),Meat,45.79,1
+AHS-AHS-181,Lipton Razor (1kg),Personal Care,292.5,0
+HVW-HVW-838,Amul Band-Aid (500g),Pharma,273.96,0
+VWI-VWI-049,Lipton Banana (500g),Fruits,153.24,1
+LER-LER-686,Amul Banana (500g),Fruits,92.21,1
+HLA-HLA-800,Colgate Bread (500g),Bakery,415.78,0
+BRS-BRS-801,Fresh Nachos (1kg),Snacks,207.85,0
+RSG-RSG-637,Dettol Namkeen (2kg),Snacks,140.77,0
+LJC-LJC-162,Fresh Chips (2kg),Snacks,139.49,0
+DGI-DGI-792,Fresh Fish (250g),Meat,223.34,1
+FXM-FXM-955,Lays Rice (250g),Grains,387.25,0
+SYA-SYA-079,Britannia Carrot (2kg),Vegetables,303.33,1
+ADT-ADT-942,Britannia Paneer (250g),Dairy,125.85,1
+XZN-XZN-092,Lays Onion (500g),Vegetables,380.71,1
+WTJ-WTJ-275,Fresh Beef (250g),Meat,137.29,1
+BGQ-BGQ-787,Kwality Walls Cucumber (500g),Vegetables,415.41,1
+NKZ-NKZ-104,Parle Energy Drink (1L),Beverages,306.95,0
+BMD-BMD-117,Nescafe Carrot (1kg),Vegetables,121.22,1
+HBJ-HBJ-344,Colgate Chicken (250g),Meat,188.02,1
+ZMR-ZMR-604,Fresh Energy Drink (250g),Beverages,455.43,0
+DBA-DBA-387,Parle Bagel (2kg),Bakery,445.38,0
+ASQ-ASQ-624,Dettol Sauce (500g),Packed Foods,380.34,0
+ZIQ-ZIQ-349,Daawat Antacid (1L),Pharma,459.63,0
+MBW-MBW-837,Lays Custard (2kg),Desserts,66.73,1
+CDT-CDT-151,Haldiram's Banana (250g),Fruits,383.73,1
+CNZ-CNZ-924,Lipton Razor (1kg),Personal Care,115.01,0
+XCG-XCG-313,Nescafe Chicken (2kg),Meat,360.51,1
+PDF-PDF-648,Patanjali Coffee (1kg),Beverages,264.61,0
+GKZ-GKZ-517,Parle Banana (500g),Fruits,490.51,1
+LUJ-LUJ-149,Dove Brownie (500g),Desserts,413.44,1
+LRK-LRK-814,Nestle Banana (1kg),Fruits,164.88,1
+CPX-CPX-060,Dettol Grapes (1L),Fruits,339.48,1
+BVO-BVO-135,Aashirvaad 0odles (1kg),Packed Foods,492.88,0
+TLX-TLX-838,Patanjali Orange (250g),Fruits,148.45,1
+OKQ-OKQ-232,Amul Chocolate (2kg),Confectionery,200.83,0
+ENR-ENR-001,Patanjali Paneer (500g),Dairy,416.63,1
+COC-COC-120,Lays Milk (1L),Dairy,272.71,1
+VTW-VTW-946,Dove Biscuits (1L),Snacks,323.13,0
+GVX-GVX-843,Cadbury Toothpaste (1L),Personal Care,455.31,0
+ZBP-ZBP-860,Amul Tomato (1kg),Vegetables,40.23,1
+MIY-MIY-493,Cadbury Shampoo (250g),Bath Essentials,193.91,0
+SII-SII-762,Lays Brownie (250g),Desserts,481.21,1
+TPM-TPM-514,Haldiram's Croissant (1L),Bakery,227.47,0
+EBA-EBA-620,Cadbury Mango (1L),Fruits,405.32,1
+PXX-PXX-096,Colgate Lotion (1L),Bath Essentials,256.79,0
+EDB-EDB-666,Lays Custard (1L),Desserts,73.44,1
+TZM-TZM-474,Nescafe Chips (1L),Snacks,164.51,0
+XPM-XPM-431,Patanjali Biscuits (500g),Snacks,424.45,0
+BFY-BFY-281,Fresh Mango (250g),Fruits,208.51,1
+VGX-VGX-814,Kwality Walls Popcorn (2kg),Snacks,233.95,0
+NRO-NRO-556,Kwality Walls Wheat Flour (1L),Grains,434.4,0
+MOX-MOX-309,Fresh Energy Drink (1kg),Beverages,40.52,0
+AME-AME-753,Lays Milk (1L),Dairy,450.4,1
+NLP-NLP-699,Lays Carrot (500g),Vegetables,481.96,1
+KNZ-KNZ-469,Kwality Walls Toffee (1L),Confectionery,495.08,0
+FTV-FTV-645,Amul Band-Aid (1L),Pharma,173.75,0
+MEC-MEC-927,Fresh Pork (1kg),Meat,174.75,1
+DXF-DXF-164,Lipton Fish (250g),Meat,147.21,1
+VJV-VJV-034,Britannia Chips (1kg),Snacks,495.58,0
+AHU-AHU-023,Britannia Cucumber (1kg),Vegetables,259.89,1
+IKH-IKH-394,Nestle Custard (2kg),Desserts,336.03,1
+FVV-FVV-456,Patanjali Banana (1kg),Fruits,407.92,1
+FYM-FYM-289,Daawat Pain Relief Gel (2kg),Pharma,495.74,0
+SRF-SRF-795,Lays Onion (500g),Vegetables,89.78,1
+NES-NES-625,Dettol Gum (500g),Confectionery,304.21,0
+WHX-WHX-536,Aashirvaad Bun (1kg),Bakery,144.24,0
+XAY-XAY-051,Nestle Antacid (250g),Pharma,485.9,0
+OFY-OFY-410,Colgate Corn (1L),Grains,488.51,0
+VTZ-VTZ-421,Parle Conditioner (1kg),Bath Essentials,190.36,0
+THO-THO-830,Kwality Walls Bread (2kg),Bakery,233.38,0
+TNS-TNS-974,Dove Brownie (1kg),Desserts,229.89,1
+JZR-JZR-178,Lays Chicken (1kg),Meat,469.55,1
+CMY-CMY-815,Dettol Carrot (1L),Vegetables,379.28,1
+CBL-CBL-187,Lipton Mango (2kg),Fruits,453.93,1
+GEA-GEA-121,Aashirvaad Ice Cream (250g),Desserts,406,1
+IQS-IQS-467,Parle Cucumber (250g),Vegetables,107.86,1
+RAI-RAI-421,Haldiram's Bread (250g),Bakery,290.78,0
+HCA-HCA-564,Cadbury Candy (1L),Confectionery,494.65,0
+IDT-IDT-178,Patanjali 0odles (250g),Packed Foods,245.14,0
+YRZ-YRZ-565,Parle Brownie (1kg),Desserts,33.61,1
+ADU-ADU-097,Nestle Shampoo (1kg),Bath Essentials,378.74,0
+BCS-BCS-966,Lays Popcorn (500g),Snacks,420.46,0
+MRD-MRD-950,Nestle Lotion (250g),Bath Essentials,310.76,0
+EVS-EVS-351,Lays Soap (500g),Bath Essentials,401.29,0
+UYP-UYP-126,Nescafe Butter (1kg),Dairy,326.68,1
+LIL-LIL-210,Dettol Ice Cream (1kg),Desserts,88.41,1
+CVY-CVY-742,Daawat Barley (1kg),Grains,386,0
+SMM-SMM-144,Dettol Face Wash (500g),Personal Care,37.57,0
+KKO-KKO-597,Colgate Potato (250g),Vegetables,451.68,1
+GPM-GPM-975,Patanjali Cucumber (1kg),Vegetables,281.17,1
+KUH-KUH-845,Kwality Walls Cake Mix (1kg),Desserts,235.12,1
+NQM-NQM-357,Nestle Deodorant (2kg),Personal Care,163.64,0
+NZN-NZN-625,Parle Fish (250g),Meat,247.47,1
+DFP-DFP-798,Amul Body Wash (500g),Bath Essentials,291.27,0
+AEG-AEG-624,Colgate Banana (250g),Fruits,352.91,1
+STS-STS-217,Amul Soda (1L),Beverages,95.85,0
+IZC-IZC-299,Haldiram's Mouthwash (2kg),Personal Care,37.23,0
+QPK-QPK-496,Nestle Paneer (500g),Dairy,104.12,1
+KIP-KIP-952,Cadbury Antacid (250g),Pharma,335.11,0
+JPS-JPS-159,Aashirvaad Pulses (1L),Grains,70.91,0
+PQQ-PQQ-380,Patanjali Milk (500g),Dairy,292.05,1
+TPR-TPR-785,Fresh Chips (1L),Snacks,410.74,0
+CTP-CTP-080,Nestle Mango (2kg),Fruits,382.52,1
+LJQ-LJQ-118,Patanjali Bun (1L),Bakery,287.56,0
+VFE-VFE-816,Parle Rice (1kg),Grains,493.39,0
+OSU-OSU-122,Aashirvaad Cheese (500g),Dairy,482.96,1
+XRX-XRX-841,Parle Rice (250g),Grains,91.91,0
+XLX-XLX-418,Lipton Mango (250g),Fruits,233.92,1
+OSV-OSV-686,Parle Sauce (2kg),Packed Foods,165.53,0
+UUC-UUC-960,Cadbury Soup (250g),Packed Foods,246.56,0
+WNX-WNX-353,Amul Paneer (500g),Dairy,162.31,1
+DCL-DCL-218,Lipton Chocolate (1L),Confectionery,439.13,0
+EFJ-EFJ-491,Lays Orange (250g),Fruits,134.36,1
+KBP-KBP-930,Colgate Mouthwash (2kg),Personal Care,349.15,0
+EGN-EGN-192,Nestle Bread (1kg),Bakery,102.92,0
+MNF-MNF-255,Dettol Pudding (250g),Desserts,313.8,1
+DDJ-DDJ-743,Lipton Cereal (250g),Packed Foods,448.31,0
+JQT-JQT-882,Lipton Chicken (250g),Meat,343.52,1
+IXC-IXC-001,Parle Custard (1kg),Desserts,306.8,1
+OZO-OZO-722,Fresh Soap (1L),Bath Essentials,62.53,0
+HVO-HVO-310,Nestle Nachos (1kg),Snacks,101.07,0
+LHB-LHB-714,Aashirvaad Grapes (2kg),Fruits,65.87,1
+YRW-YRW-107,Lipton Gum (500g),Confectionery,418.98,0
+YIB-YIB-210,Amul Deodorant (500g),Personal Care,480.32,0
+ZMQ-ZMQ-685,Parle Mouthwash (500g),Personal Care,184.15,0
+QDS-QDS-649,Nestle Toothpaste (1kg),Personal Care,453.39,0
+MPK-MPK-135,Aashirvaad Wheat Flour (1L),Grains,489.14,0
+MQX-MQX-870,Colgate Fish (250g),Meat,44.77,1
+ZEY-ZEY-240,Britannia Corn (250g),Grains,265.69,0
+GNS-GNS-281,Colgate Cereal (1kg),Packed Foods,110.21,0
+BTF-BTF-860,Fresh 0odles (250g),Packed Foods,42.59,0
+ZIZ-ZIZ-082,Britannia Wheat Flour (1L),Grains,351.98,0
+JVL-JVL-261,Patanjali Face Wash (500g),Personal Care,299.85,0
+IEW-IEW-182,Dove Band-Aid (250g),Pharma,231.18,0
+CDW-CDW-611,Aashirvaad Bun (250g),Bakery,259.71,0
+KBA-KBA-060,Colgate Butter (1L),Dairy,68.29,1
+MKI-MKI-045,Haldiram's Brownie (1kg),Desserts,327.11,1
+ISW-ISW-485,Kwality Walls Bread (1L),Bakery,297.55,0
+QGQ-QGQ-617,Nestle Mouthwash (500g),Personal Care,167.09,0
+DWZ-DWZ-641,Daawat Nachos (500g),Snacks,485.73,0
+LDB-LDB-185,Aashirvaad Soup (500g),Packed Foods,148.15,0
+OAT-OAT-623,Colgate Antacid (500g),Pharma,200.19,0
+NAL-NAL-216,Parle Soap (1L),Bath Essentials,189.76,0
+FDJ-FDJ-680,Colgate Mouthwash (500g),Personal Care,253.45,0
+DRX-DRX-386,Haldiram's Milk (2kg),Dairy,400.05,1
+YWG-YWG-802,Britannia Butter (250g),Dairy,160.66,1
+DVV-DVV-454,Dove Soda (250g),Beverages,123.28,0
+RTF-RTF-047,Lipton Tomato (2kg),Vegetables,137.22,1
+MOF-MOF-277,Nescafe Namkeen (2kg),Snacks,358.96,0
+FHV-FHV-480,Nestle Sauce (250g),Packed Foods,426.53,0
+OVX-OVX-607,Nestle Toffee (500g),Confectionery,264.29,0
+JLT-JLT-794,Britannia Pain Relief Gel (250g),Pharma,237.44,0
+FSD-FSD-347,Patanjali Grapes (1kg),Fruits,111.41,1
+DZY-DZY-570,Amul Bun (1L),Bakery,160.64,0
+VHL-VHL-526,Dove Fish (500g),Meat,183.41,1
+WZH-WZH-023,Haldiram's Apple (1L),Fruits,110,1
+DHQ-DHQ-145,Daawat Banana (1L),Fruits,249.6,1
+JEW-JEW-044,Lipton Energy Drink (500g),Beverages,223.29,0
+OUC-OUC-436,Haldiram's Onion (500g),Vegetables,185.89,1
+ZKW-ZKW-306,Nescafe Pain Relief Gel (250g),Pharma,66.05,0
+UWU-UWU-764,Parle Carrot (250g),Vegetables,125.79,1
+HJY-HJY-627,Fresh Pain Relief Gel (500g),Pharma,141.2,0
+KGS-KGS-649,Nestle Custard (500g),Desserts,62.31,1
+HQM-HQM-416,Lays Conditioner (250g),Bath Essentials,31.43,0
+ASU-ASU-355,Parle Cake (1kg),Bakery,349.04,0
+PYY-PYY-932,Dettol Bread (1L),Bakery,205.29,0
+VYP-VYP-581,Colgate Energy Drink (500g),Beverages,236.08,0
+PYU-PYU-472,Parle Sauce (250g),Packed Foods,248.96,0
+MHF-MHF-676,Britannia Carrot (500g),Vegetables,149.5,1
+UJZ-UJZ-265,Aashirvaad Pasta (1L),Packed Foods,254.62,0
+MJJ-MJJ-023,Cadbury Vitamin C (250g),Pharma,406.09,0
+QKW-QKW-189,Haldiram's Mango (2kg),Fruits,126.03,1
+SBJ-SBJ-516,Dettol Mints (250g),Confectionery,192.15,0
+EHR-EHR-767,Aashirvaad Pork (500g),Meat,63.79,1
+MEI-MEI-132,Aashirvaad Pudding (2kg),Desserts,484.66,1
+HAM-HAM-906,Parle Chips (500g),Snacks,243.55,0
+RHK-RHK-376,Lays Mango (2kg),Fruits,257.69,1
+YRH-YRH-127,Cadbury Sauce (2kg),Packed Foods,30.46,0
+MQI-MQI-239,Dettol Banana (250g),Fruits,274.11,1
+WUI-WUI-285,Haldiram's Nachos (1kg),Snacks,388.93,0
+EIP-EIP-198,Haldiram's Energy Drink (2kg),Beverages,257.37,0
+NKO-NKO-359,Lipton Bagel (1kg),Bakery,426.05,0
+NUM-NUM-660,Patanjali Croissant (500g),Bakery,161.91,0
+LDO-LDO-317,Lipton Chicken (1L),Meat,472.23,1
+EMA-EMA-503,Nestle Paneer (250g),Dairy,425.47,1
+NYK-NYK-280,Parle Paneer (1L),Dairy,425,1
+XKJ-XKJ-356,Nestle Onion (250g),Vegetables,409.39,1
+IUI-IUI-198,Nestle Carrot (250g),Vegetables,96.42,1
+KOT-KOT-153,Parle Vitamin C (1kg),Pharma,114.92,0
+OQM-OQM-877,Aashirvaad Conditioner (2kg),Bath Essentials,125.58,0
+HYY-HYY-628,Aashirvaad Cucumber (500g),Vegetables,249.35,1
+SZT-SZT-566,Lays Mints (250g),Confectionery,198.23,0
+XVW-XVW-242,Aashirvaad Corn (1L),Grains,403.37,0
+PRY-PRY-274,Dove Pudding (1kg),Desserts,242.27,1
+WFP-WFP-127,Britannia Cake Mix (250g),Desserts,167.62,1
+UCJ-UCJ-872,Lipton Wheat Flour (250g),Grains,125.37,0
+DLG-DLG-196,Daawat Croissant (500g),Bakery,294.69,0
+QVL-QVL-001,Kwality Walls Mints (1kg),Confectionery,193.15,0
+MDT-MDT-668,Cadbury Cake Mix (500g),Desserts,74.82,1
+IGA-IGA-425,Aashirvaad Yogurt (1L),Dairy,319.08,1
+CCD-CCD-796,Daawat Orange (1L),Fruits,322.11,1
+KMO-KMO-737,Colgate Cucumber (500g),Vegetables,311.4,1
+DFQ-DFQ-038,Britannia Beef (1kg),Meat,436.48,1
+QRD-QRD-911,Nestle Body Wash (2kg),Bath Essentials,172.08,0
+HAN-HAN-873,Daawat Paneer (500g),Dairy,210.08,1
+TCY-TCY-275,Lipton Candy (1L),Confectionery,136.24,0
+RST-RST-936,Aashirvaad Tea (1L),Beverages,30.56,0
+SHY-SHY-875,Lipton Tea (1kg),Beverages,243.07,0
+NIB-NIB-633,Britannia Mouthwash (2kg),Personal Care,200.13,0
+DPG-DPG-906,Daawat Coffee (250g),Beverages,455.55,0
+NSH-NSH-354,Amul Cake Mix (1L),Desserts,337.31,1
+VFX-VFX-853,Patanjali Body Wash (1L),Bath Essentials,44.45,0
+TSO-TSO-854,Fresh Cake Mix (2kg),Desserts,406.03,1
+APL-APL-934,Colgate Carrot (500g),Vegetables,261.3,1
+NVY-NVY-981,Fresh Orange (500g),Fruits,416.6,1
+URY-URY-136,Daawat Tea (1kg),Beverages,233.35,0
+WWW-WWW-650,Dettol Deodorant (1L),Personal Care,68.53,0
+VHJ-VHJ-162,Nescafe Chips (1kg),Snacks,292.46,0
+EKU-EKU-820,Kwality Walls Shampoo (1kg),Bath Essentials,87.77,0
+REK-REK-699,Britannia Toothpaste (500g),Personal Care,101.83,0
+LWS-LWS-600,Dove Sauce (2kg),Packed Foods,292.88,0
+SNV-SNV-911,Parle Sauce (1L),Packed Foods,64.42,0
+DEF-DEF-936,Patanjali Gum (2kg),Confectionery,393.98,0
+CGB-CGB-361,Aashirvaad Rice (250g),Grains,323.85,0
+XQN-XQN-505,Daawat Tea (1kg),Beverages,99.65,0
+UWY-UWY-122,Haldiram's Pulses (500g),Grains,322.4,0
+AED-AED-984,Parle Chocolate (250g),Confectionery,118.11,0
+YAH-YAH-030,Colgate Vitamin C (2kg),Pharma,248.72,0
+UOE-UOE-544,Daawat Band-Aid (1kg),Pharma,341.93,0
+JAB-JAB-785,Parle Band-Aid (250g),Pharma,271.11,0
+CUV-CUV-512,Aashirvaad Apple (500g),Fruits,418.91,1
+SUS-SUS-067,Kwality Walls Band-Aid (500g),Pharma,281.19,0
+HMC-HMC-429,Daawat Milk (1L),Dairy,68,1
+QZH-QZH-784,Nescafe Bagel (1kg),Bakery,134.14,0
+UCV-UCV-878,Fresh Pork (250g),Meat,309.88,1
+ZGC-ZGC-076,Dettol Bagel (1L),Bakery,99.48,0
+FWA-FWA-992,Cadbury Soap (2kg),Bath Essentials,404.99,0
+YTV-YTV-455,Dettol Banana (250g),Fruits,244.32,1
+SWR-SWR-521,Patanjali Band-Aid (1L),Pharma,437.2,0
+KWE-KWE-874,Daawat Vitamin C (1kg),Pharma,490.6,0
+HJS-HJS-410,Britannia Pain Relief Gel (250g),Pharma,326.12,0
+PCV-PCV-680,Amul Toothpaste (1kg),Personal Care,121.39,0
+BOD-BOD-602,Britannia Pulses (2kg),Grains,128.03,0
+FIZ-FIZ-384,Aashirvaad Juice (1kg),Beverages,64.99,0
+NQH-NQH-269,Colgate Apple (500g),Fruits,249.88,1
+RWG-RWG-946,Dettol Chicken (2kg),Meat,84.79,1
+RVS-RVS-676,Parle Cake Mix (250g),Desserts,137.62,1
+PZK-PZK-281,Lipton Orange (2kg),Fruits,97.73,1
+VKR-VKR-430,Dove Toffee (2kg),Confectionery,443.69,0
+RMQ-RMQ-191,Dettol Apple (250g),Fruits,340.47,1
+PSP-PSP-185,Dove Bun (1L),Bakery,65.25,0
+HHW-HHW-237,Dove Chips (1L),Snacks,399.03,0
+CZS-CZS-478,Patanjali Cucumber (500g),Vegetables,75.75,1
+IJL-IJL-351,Nestle Nachos (1kg),Snacks,206.02,0
+UUJ-UUJ-503,Nestle Mouthwash (1L),Personal Care,113.05,0
+WQL-WQL-069,Patanjali Toothpaste (500g),Personal Care,459.2,0
+LBR-LBR-279,Haldiram's Pain Relief Gel (500g),Pharma,274.48,0
+WXO-WXO-108,Amul Chocolate (1L),Confectionery,321.2,0
+VMW-VMW-146,Dove Band-Aid (250g),Pharma,355.78,0
+CDQ-CDQ-078,Lipton Body Wash (2kg),Bath Essentials,94.63,0
+ASP-ASP-819,Fresh Coffee (1L),Beverages,206.3,0
+NJD-NJD-319,Nescafe Chocolate (250g),Confectionery,205.88,0
+0Y-0Y-217,Amul Cake (2kg),Bakery,180.24,0
+GPX-GPX-221,Cadbury Grapes (1kg),Fruits,470.87,1
+FKP-FKP-848,Daawat Custard (2kg),Desserts,383.02,1
+EMQ-EMQ-348,Parle Nachos (500g),Snacks,321.05,0
+GUH-GUH-586,Cadbury Croissant (2kg),Bakery,38.63,0
+NYR-NYR-323,Daawat Nachos (500g),Snacks,483.1,0
+UXB-UXB-947,Patanjali Barley (250g),Grains,108.4,0
+FSX-FSX-029,Haldiram's Conditioner (1kg),Bath Essentials,260.75,0
+BSW-BSW-026,Patanjali Face Wash (1L),Personal Care,471.88,0
+CEG-CEG-823,Aashirvaad Apple (1L),Fruits,35.94,1
+SUV-SUV-277,Nescafe Soap (250g),Bath Essentials,99.06,0
+IGL-IGL-296,Lipton Tea (500g),Beverages,169.64,0
+KKF-KKF-831,Kwality Walls Shampoo (500g),Bath Essentials,112.84,0
+OVM-OVM-692,Dettol Gum (1L),Confectionery,413.92,0
+KOD-KOD-916,Aashirvaad 0odles (250g),Packed Foods,178.07,0
+KFS-KFS-745,Colgate Body Wash (500g),Bath Essentials,133.1,0
+TTQ-TTQ-738,Lipton Carrot (250g),Vegetables,427.4,1
+LJT-LJT-166,Cadbury Toothpaste (1L),Personal Care,294.75,0
+MRK-MRK-086,Lipton Tomato (2kg),Vegetables,275.6,1
+TYL-TYL-232,Colgate Energy Drink (2kg),Beverages,304.92,0
+FOC-FOC-269,Cadbury Chips (1kg),Snacks,71.86,0
+BHX-BHX-986,Dettol Band-Aid (500g),Pharma,230.99,0
+RTM-RTM-541,Nescafe Gum (500g),Confectionery,176.33,0
+RGA-RGA-760,Cadbury Chocolate (500g),Confectionery,226.37,0
+FTV-FTV-594,Colgate Namkeen (2kg),Snacks,208.91,0
+APM-APM-833,Daawat Mango (2kg),Fruits,97.5,1
+OLU-OLU-156,Lipton Ice Cream (1L),Desserts,452.99,1
+FBL-FBL-608,Parle Cake Mix (2kg),Desserts,464.45,1
+PHT-PHT-775,Nescafe Deodorant (2kg),Personal Care,196.98,0
+KTA-KTA-326,Britannia Pudding (1L),Desserts,216.07,1
+ELQ-ELQ-500,Amul Cake (1kg),Bakery,136.69,0
+BGS-BGS-891,Nestle Brownie (1kg),Desserts,307.1,1
+LNZ-LNZ-824,Dettol Face Wash (500g),Personal Care,92.99,0
+FZK-FZK-719,Nescafe Barley (1L),Grains,129.43,0
+SVB-SVB-614,Lays Pudding (1L),Desserts,313.09,1
+EUT-EUT-433,Dettol Razor (2kg),Personal Care,164.74,0
+GRJ-GRJ-583,Parle Popcorn (250g),Snacks,136.94,0
+JWB-JWB-857,Patanjali Butter (1L),Dairy,407.23,1
+GQW-GQW-271,Lays Tea (2kg),Beverages,78.3,0
+ACB-ACB-994,Lipton Sauce (250g),Packed Foods,34.67,0
+SIK-SIK-342,Fresh Conditioner (250g),Bath Essentials,222.86,0
+KVS-KVS-869,Dettol Energy Drink (500g),Beverages,461.45,0
+KBK-KBK-739,Dettol Rice (1L),Grains,95.82,0
+OQF-OQF-451,Colgate Milk (500g),Dairy,201.84,1
+MUT-MUT-746,Lays Pork (1L),Meat,109.92,1
+SUY-SUY-931,Colgate Yogurt (2kg),Dairy,45.57,1
+OSQ-OSQ-846,Colgate Bread (500g),Bakery,471.33,0
+TEU-TEU-681,Haldiram's Coffee (2kg),Beverages,278.74,0
+MKE-MKE-267,Kwality Walls Banana (500g),Fruits,234.27,1
+OQY-OQY-921,Daawat Chips (1L),Snacks,277.21,0
+GGL-GGL-692,Dettol Wheat Flour (2kg),Grains,33.22,0
+GFQ-GFQ-363,Daawat Pain Relief Gel (2kg),Pharma,319.22,0
+FBD-FBD-770,Dettol Onion (1L),Vegetables,465.92,1
+MLM-MLM-094,Colgate Barley (1L),Grains,101.74,0
+JXB-JXB-276,Amul Chicken (1kg),Meat,91.76,1
+YBG-YBG-217,Dove Popcorn (1kg),Snacks,201.49,0
+ZVE-ZVE-750,Aashirvaad Namkeen (1kg),Snacks,89.26,0
+TNJ-TNJ-392,Dove Mutton (250g),Meat,194.32,1
+VSN-VSN-827,Colgate Mints (500g),Confectionery,400.67,0
+RUB-RUB-952,Patanjali Pain Relief Gel (500g),Pharma,49.19,0
+NIL-NIL-181,Britannia Apple (1kg),Fruits,259.45,1
+RXY-RXY-298,Daawat Band-Aid (1L),Pharma,125.5,0
+EVD-EVD-960,Aashirvaad Toffee (500g),Confectionery,441.79,0
+MBD-MBD-795,Nestle Sauce (500g),Packed Foods,216.05,0
